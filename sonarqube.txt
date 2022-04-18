@@ -1,0 +1,8 @@
+https://github.com/SonarSource/sonar-scanning-examples.git
+
+sonar.projectKey=sonarqube1
+sonar.login=admin
+sonar.password=krish1910.
+sonar.exclusions=vendor/**, storage/**, resources/**,, **/*.java
+sonar.sources=/var/lib/jenkins/workspace/sonarDemo1
+sonar.host.url=http://192.168.56.101:9000
